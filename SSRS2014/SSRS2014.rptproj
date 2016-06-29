@@ -13,7 +13,12 @@
       <FullPath>DataSet1.rsd</FullPath>
     </ProjectItem>
   </DataSets>
-  <Reports />
+  <Reports>
+    <ProjectItem>
+      <Name>Report1.rdl</Name>
+      <FullPath>Report1.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
   <Configurations>
     <Configuration>
       <Name>Debug</Name>
