@@ -7,7 +7,12 @@
       <FullPath>DataSource1.rds</FullPath>
     </ProjectItem>
   </DataSources>
-  <DataSets />
+  <DataSets>
+    <ProjectItem>
+      <Name>DataSet1.rsd</Name>
+      <FullPath>DataSet1.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
   <Reports />
   <Configurations>
     <Configuration>
